@@ -1,2 +1,2 @@
-# paper_summary
+# Paper Summary
 A list of paper summaries
